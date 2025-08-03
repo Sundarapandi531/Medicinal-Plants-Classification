@@ -180,5 +180,3 @@ Add image enhancement and correction features
 I have used the dataset from [Kaggle](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
 
 ---
-
-\
