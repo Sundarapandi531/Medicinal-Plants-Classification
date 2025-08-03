@@ -96,7 +96,7 @@ combined_dataset/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/sureshkumar2704/Medicinal-Plant-Classification.git
+git clone https://github.com/sundarapandi531/Medicinal-Plant-Classification.git
 cd Medicinal-Plant-Classification
 ```
 
